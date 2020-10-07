@@ -4,5 +4,17 @@
     "name": "Flutter Youtube Clone",
     "image": "https://i.ibb.co/QbfShxp/fyt.png",
     "description": "UI Clone of YT Using Flutter"
+},	
+ {	
+    "url": "https://github.com/nitishpatel/flutter_todo_app",	
+    "name": "TODO APP",	
+    "image": "https://i.ibb.co/r55sNmM/ftodo.png",	
+    "description": "Your Daily Task Manager"	
+},	
+    {	
+    "url": "https://github.com/nitishpatel/whatsapp_direct_chat",	
+    "name": "Whatsapp Direct Chat",	
+    "image": "https://i.ibb.co/wNbYvWt/fwt.png",	
+    "description": "Chat without saving numbers"	
 }
 ]
