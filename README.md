@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 [<img src="https://img.icons8.com/color/48/000000/domain--v1.png"/>](https://nitishpatel.live)
 [<img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/>](https://www.instagram.com/_nitishpatel_/)
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](www.linkedin.com/in/nitishp25)
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://medium.com/@patelnitish)
+[<img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/>](https://medium.com/@patelnitish)
 
