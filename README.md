@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on FlutterStrap
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on making some WebApps
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishpatel" alt="harshcsper" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishpatel" alt="nitishpatel" /> </p>
 
 <h2 align="center">⚡️ Technology Stacks</h2>
 <p align="center">
