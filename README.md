@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nitishpatel&layout=compact&hide=html&theme=jolly" alt="nitishpatel" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishpatel&langs_count=5&theme=jolly&layout=compact" alt="nitishpatel" />&nbsp;&nbsp;&nbsp;&nbsp;
 
+
+ </p>
 
 ## Important Links
 
