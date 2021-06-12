@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nitish Patel</h1>
 <h3 align="center">Flutter Developer || React Developer ⚛️ || Pythoneer 🐍</h3>
-### Hi there 👋
+
 
 Here are some ideas to get you started:
 
