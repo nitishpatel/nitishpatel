@@ -1,12 +1,11 @@
 
-<h1 align="center">Hi 👋, I'm Nitish Patel</h1>
-<h3 align="center">SDE || React - Django Developer || Web3</h3>
-
+![iMac - 1](https://user-images.githubusercontent.com/39486276/155664296-9ba19922-ad6d-4bcc-8dc3-1e5174a3b60a.png)
+<!-- 
 - 🔭 I’m currently working on web3 dapps
 - 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on making some WebApps
 
-
+ -->
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nitishp25) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nitishp25) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nitishpatel_) 
