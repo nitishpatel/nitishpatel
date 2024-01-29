@@ -2,7 +2,7 @@
 ![iMac - 1](https://user-images.githubusercontent.com/39486276/155664296-9ba19922-ad6d-4bcc-8dc3-1e5174a3b60a.png)
 <!-- 
 - 🔭 I’m currently working on web3 dapps
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Go Lang
 - 👯 I’m looking to collaborate on making some WebApps
 
  -->
